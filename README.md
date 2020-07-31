@@ -21,7 +21,8 @@
 
 ## Table of contents
 
-* [TimeSeries](./TimeSeries)
+* TimeSeries
+    * [2020BDC](https://competition.huaweicloud.com/information/1000037843/bdc2020)
 
 ## Show your support
 

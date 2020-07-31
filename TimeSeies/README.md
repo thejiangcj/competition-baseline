@@ -2,7 +2,11 @@
 
 This file contains:
 
-* [unilts.py](./unilts.py)
-* [2020BDC](./2020BDC)
-    * [比赛地址](https://competition.huaweicloud.com/information/1000037843/bdc2020)
-    * [个人代码](./2020BDC)
+* `unilts.py`
+    1. compute distance according to latitude and longitude(km)
+
+* BDC2020
+
+    1. `data_cl.py`-Data cleaning scripts
+
+    2. `baseline.py`-program execution
