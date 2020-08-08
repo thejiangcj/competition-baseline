@@ -19,11 +19,18 @@
 ## Table of contents
 
 * TimeSeries
-    * [2020BDC](https://competition.huaweicloud.com/information/1000037843/bdc2020)
+    
+    * [2020BDC](https://competition.huaweicloud.com/information/1000037843/bdc2020)-时间序列、到达时间预测
+    
+* Relation graph
+    
+    * [Rong360_feature_mining_1st_solution](https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution)-关系+图
+    
+    
 
 ## Author
 
-👤 **thejiangcj**
+👤 姜大德
 
 * Website: [个人主页](ornorphan.cn)
 * GitHub: [@thejiangcj](https://github.com/thejiangcj)
@@ -36,6 +43,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [thejiangcj](https://github.com/thejiangcj).<br />
 This project is [MIT](https://github.com/thejiangcj/competition-baseline/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

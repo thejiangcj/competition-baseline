@@ -42,3 +42,12 @@ def calc_dist(row):
     except (ValueError, IndexError):
         pass
     return dist
+    
+# 2. Cut DataFrame according to col
+# the files are in "dataset/"
+def cut_id(x):
+    ids = x['loadingOrder'].values[0]
+    x.to_csv('dataset/'+str(ids)+'.csv', index=False)
+    
+data.groupby('loadingOrder')[data.columns].apply(cut_id)
+print("Cut compete")
